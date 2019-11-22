@@ -1,0 +1,29 @@
+{
+    "name": "vividweb/quick_tabs",
+    "description": "Easy tab creation for concrete5",
+    "type": "concrete5-package",
+    "keywords": [
+        "concrete5",
+        "tab",
+        "tabs",
+        "content",
+        "responsive"
+    ],
+    "homepage": "https://www.concrete5.org/marketplace/addons/quick-tabs",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Michael Grissinger",
+            "email": "michael@isitvivid.com",
+            "role": "Author"
+        }
+    ],
+    "support": {
+        "issues": "https://www.concrete5.org/marketplace/addons/quick-tabs/support",
+        "source": "https://github.com/VividWeb/quick_tabs"
+    },
+    "require": {
+        "concrete5/core": ">=5.7.1"
+    },
+    "prefer-stable": true
+}
